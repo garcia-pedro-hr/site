@@ -19,11 +19,18 @@ h1 {
 }
 
 a {
-  color:black;
+  color:#01b15f;
+}
+a:hover {
+  color: red;
 }
 
 p {
   font-family: 'Merriweather', serif;
   font-weight: 300;
   line-height: 1.6em;
+}
+
+video:focus {
+  outline: none;
 }

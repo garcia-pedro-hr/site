@@ -5,7 +5,7 @@ layout: default
 <div id="home" class="wrapper" style="padding-bottom: 0px">
 
     <header id="about" class="hero">
-        <h1 class="hero-section">{{ site.name }}</h1>
+        <h1 class="hero-section"><a class="unlink" href="/">{{ site.name }}</a></h1>
 
         <div class="hero-content">
             <h1>Software Engineer with experience in Digital Design who is enthusiastic about product, technology and
@@ -13,9 +13,9 @@ layout: default
             <p>He is currently working with Android Open Source Project (AOSP) for Motorola Mobility. He developed
                 android applications for mobile devices used by millions of users around the world.</p>
 
-            <h1><a title="/rafamatias" href="http://linkedin.com/in/{{ site.linkedin_username }}">LinkedIn</a></h1>
-            <h1><a title="@rafamatias" href="http://github.com/{{ site.linkedin_username }}">Github</a></h1>
-            <h1><a title="/rafamatias" href="http://dribbble.com/{{ site.linkedin_username }}">Dribbble</a></h1>
+            <h1><a class="link" title="/rafamatias" href="http://linkedin.com/in/{{ site.linkedin_username }}">LinkedIn</a></h1>
+            <h1><a class="link" title="@rafamatias" href="http://github.com/{{ site.linkedin_username }}">Github</a></h1>
+            <h1><a class="link" title="/rafamatias" href="http://dribbble.com/{{ site.linkedin_username }}">Dribbble</a></h1>
         </div>
     </header>
 
@@ -29,6 +29,23 @@ layout: default
         </div>
 
         <div class="hero-full" style="background-color:#00EE80; min-height: 540px;">
+            <div>
+                <video width="200" autoplay loop muted>
+                    <source src="assets/videos/external-display.webm" type="video/webm">
+                    <source src="assets/videos/external-display.mp4" type="video/mp4">
+                </video>
+            </div>
+            <div>
+                <video width="200" controls loop muted>
+                    <source src="assets/videos/full-screen.webm" type="video/webm">
+                    <source src="assets/videos/full-screen.mp4" type="video/mp4">
+                </video>
+            </div>
+            <div>
+                <video width="225" controls loop muted>
+                    <source src="assets/videos/tutorial.mp4" type="video/mp4">
+                </video>
+            </div>
         </div>
     </section>
 
