@@ -1,8 +1,9 @@
-@import url('//fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
+@import url('//fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
 @import url('//fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;1,300&display=swap');
 
 html {
-  font-family: Inter, sans-serif
+  font-family: 'Merriweather', serif;
+  font-weight: 300;
 }
 
 body {
@@ -11,7 +12,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
+  font-family: Inter, sans-serif;
   letter-spacing: -0.03em;
+  font-weight: 600;
 }
 
 h1 {
@@ -26,8 +29,6 @@ a:hover {
 }
 
 p {
-  font-family: 'Merriweather', serif;
-  font-weight: 300;
   line-height: 1.6em;
 }
 

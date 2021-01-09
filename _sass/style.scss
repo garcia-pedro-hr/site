@@ -9,9 +9,14 @@
   padding: 1.4em;
 }
 
-.section-title {
+.section-title, .experience-date {
+  font-family: Inter, sans-serif;
   font-size: 18px;
-  font-weight: 500;
+  font-weight: 400;
+}
+
+.experience-date {
+  margin-top:  0;
 }
 
 .grid, .hero {
@@ -60,9 +65,12 @@
     display: block
   }
 
-  .experience-item {
-    margin-bottom: 2.5em;
+  .experience-item, .hero-section {
+    margin-bottom: 3em;
   }
 
+  .experience-item:last-child {
+    margin-bottom: 0;
+  }
 }
 
