@@ -1,14 +1,8 @@
-# Rafael's personal website
+# Pedro's personal website
 
-Software Engineer with experience in Digital Design who is enthusiastic about product, technology and design.
+Pedro is a developer with enthusiasm for new technologies and huge passion for programming and an aspiring software architect. He believes that writing code is an art that requires him enough commitment and care. He tries to always achieve the best solution, minding code performance, readability, maintainability, style and of course correctness in projects that he is a part of. 
 
-He is currently working with Android Open Source Project (AOSP) for Motorola Mobility. He developed android applications for mobile devices used by millions of users around the world.
-
-# Links
-
-- Website: <http://www.rafamatias.com>
-- LinkedIn: <http://linkedin.com/in/rafamatias>
-- Dribble: <http://dribbble.com/rafamatias>
+He is currently working with Android Open Source Project (AOSP) for Motorola Mobility where he develops android applications for mobile devices used by millions of users around the world.
 
 # License
 
