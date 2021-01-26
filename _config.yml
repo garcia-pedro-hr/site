@@ -18,17 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-name: Rafael Matias
-title: Rafael Matias - Software engineer
+name: Pedro Garcia
+title: Pedro Garcia - Mobile Software Engineer
 description: Software engineer working with AOSP (Android Open Source Project)
-keywords: software engineer, aosp, android, mobile developer, front-end, back-end, brazil
-email: rafamatias.1@gmail.com
+keywords: software engineer, aosp, android, mobile developer
 baseurl: ""
 url: ""
-twitter_username: rafamatias
-github_username: rafamatias
-linkedin_username: rafamatias
-dribbble_username: rafamatias
+github_username: garcia-pedro-hr
+linkedin_username: ph-garcia
 
 # Collections
 # collections: 
